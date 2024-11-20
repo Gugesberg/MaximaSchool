@@ -4,3 +4,7 @@ Console.WriteLine("Всем привет!");
 
 var a = "Снова привет!";
 Console.WriteLine(a);
+
+int b = 10;
+int c = 20;
+Console.WriteLine(b + c);
